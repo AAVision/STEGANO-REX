@@ -1,0 +1,9 @@
+opencv-python
+docopt
+numpy
+pillow
+PyQt5
+pyqt5-tools
+pywin32
+PySide2
+jprq
